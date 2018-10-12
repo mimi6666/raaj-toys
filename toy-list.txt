@@ -1,5 +1,5 @@
-1.Ball
-2.Gameboy
-3.Dolls
-4.PS4
-5.Ferrari
+1.Ball  - 15 cedis
+2.Gameboy - 10 cedis
+3.Dolls - 5 cedis
+4.PS4 - 1500 cedis
+5.Ferrari - 600,000 USD
